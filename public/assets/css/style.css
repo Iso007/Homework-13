@@ -1,0 +1,45 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  h1 {
+    margin: 15 auto;
+    text-align: center;
+  }
+  
+  .burgers {
+    float: left;
+  }
+  
+  .devoured {
+    float: right;
+  }
+  
+  .adder {
+    padding-top: 50px;
+    text-align: center;
+    margin: 0, auto;
+    clear: both;
+  }
+  
+  img {
+    margin: 0 auto;
+    padding: 25px;
+    height: 300px;
+  }
