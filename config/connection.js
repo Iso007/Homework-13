@@ -16,7 +16,7 @@ if (process.env.JAWSDB_MARIA_URL){
 
 // make connection
 connection.connect(function (err){
-    of (err){
+    if (err){
         console.error("error connecting: " + err.stack);
         return;
     }
